@@ -21,9 +21,18 @@ body{
     padding: 20px;
     border-radius: 5px;
 }
+.image-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    position: absolute;
+    top: 22px;
+    right: 50px;
+}
 .logo{
     margin-right: 500px;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: cursive;
 }
 .nav-botton{
     margin-left: 25px;
@@ -33,6 +42,7 @@ body{
     padding: 5px;
     border-radius: 10px;
     text-align: center;
+    font-family: cursive;
     transition: 1s;
     /* border: 1px solid black; */
     /* background-color: rgb(193, 127, 255); */
@@ -61,7 +71,7 @@ body{
 .vertical-nav>img{
     width: 20px;
     height: 20px;
-    margin-bottom: 90px;
+    margin-bottom: 75px;
 }
 .social-logo{
     margin-top: 12px;
@@ -98,6 +108,7 @@ body{
     position: absolute;
     top: 140px;
     left: 130px;
+    font-family: cursive;
     transition: 1s;
 }
 .big-text:hover{
@@ -108,6 +119,7 @@ body{
     position: absolute;
     top: 140px;
     left: 130px;
+    font-family: cursive;
     text-shadow: 4px 4px 5px #ffa500;
 }
 .rectangle{
